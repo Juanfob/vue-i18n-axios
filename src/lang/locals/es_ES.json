@@ -1,0 +1,12 @@
+{
+    "notice": {
+        "msg": "Listados de ejemplo"
+    },
+
+    "tabla" : {
+        "users": "usuarios",
+        "name": "Nombre",
+        "email": "Correo",
+        "city": "Ciudad"
+    }
+}
